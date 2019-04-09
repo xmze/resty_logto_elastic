@@ -1,4 +1,5 @@
 #依赖libuuid，请自行安装
+
 #依赖https://github.com/ledgetech/lua-resty-http，请自行安装
 #nginx配置
 * 添加shm配置，请适当调整，用于申请共享内存：
