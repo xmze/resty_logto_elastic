@@ -1,3 +1,5 @@
+实时nginx日志入库elasticsearch，傻瓜配置。
+
 依赖openresty，请自行安装
 
 依赖libuuid，请自行安装
